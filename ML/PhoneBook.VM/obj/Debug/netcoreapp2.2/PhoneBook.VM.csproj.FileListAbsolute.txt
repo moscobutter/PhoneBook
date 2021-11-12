@@ -1,0 +1,8 @@
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\bin\Debug\netcoreapp2.2\PhoneBook.VM.deps.json
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\bin\Debug\netcoreapp2.2\PhoneBook.VM.dll
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\bin\Debug\netcoreapp2.2\PhoneBook.VM.pdb
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\obj\Debug\netcoreapp2.2\PhoneBook.VM.AssemblyInfoInputs.cache
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\obj\Debug\netcoreapp2.2\PhoneBook.VM.AssemblyInfo.cs
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\obj\Debug\netcoreapp2.2\PhoneBook.VM.csproj.CoreCompileInputs.cache
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\obj\Debug\netcoreapp2.2\PhoneBook.VM.dll
+C:\Dev Practice\PhoneBook\PhoneBook\ML\PhoneBook.VM\obj\Debug\netcoreapp2.2\PhoneBook.VM.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DL\PhoneBook.DL\PhoneBook.DL.csproj" />
+    <ProjectReference Include="..\..\ML\PhoneBook.ML\PhoneBook.ML.csproj" />
+  </ItemGroup>
+
+</Project>

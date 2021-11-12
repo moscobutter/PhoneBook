@@ -1,0 +1,15 @@
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.DL.deps.json
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.DL.runtimeconfig.json
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.DL.runtimeconfig.dev.json
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.DL.dll
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.DL.pdb
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.ML.dll
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\bin\Debug\netcoreapp2.2\PhoneBook.ML.pdb
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.csproj.AssemblyReference.cache
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.AssemblyInfoInputs.cache
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.AssemblyInfo.cs
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.csproj.CoreCompileInputs.cache
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.csproj.CopyComplete
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.dll
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.pdb
+C:\Dev Practice\PhoneBook\PhoneBook\DL\PhoneBook.DL\obj\Debug\netcoreapp2.2\PhoneBook.DL.genruntimeconfig.cache
